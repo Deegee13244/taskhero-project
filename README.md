@@ -13,7 +13,7 @@
 <br> 
 <br> 
 
-This repository is for the API and Client of our web application, which was developed for the University of Cincinnati CEAS senior design project. A formal explanation of the project and the final product is located on the [project report repository](https://github.com/Deegee13244/Senior-Design). For an explanation on how the final product works, please take a look at the [user manual](https://github.com/Deegee13244/Senior-Design/blob/main/Design-Submissions/User-Docs.md). If you wish to clone the repository and set up the web application locally on your device, please refer to the [installation and setup guide](). 
+This repository is for the API and Client of our web application, which was developed for the University of Cincinnati CEAS senior design project. A formal explanation of the project and the final product is located on the [project report repository](https://github.com/Deegee13244/Senior-Design). Additionally, a video demonstration of this project's capabilities can be found [on YouTube](https://www.youtube.com/watch?v=0oL-We0rSF4). For an explanation on how the final product works, please take a look at the [user manual](https://github.com/Deegee13244/Senior-Design/blob/main/Design-Submissions/User-Docs.md). If you wish to clone the repository and set up the web application locally on your device, please refer to the [installation and setup guide](). 
 
 The project is a task management application that uses gamification in order to make the tasks more fun to complete, attempting to motivate the user into doing their work instead of procrastinating. It was developed using the .NET and entity framework to create the API, Azure data studio to create the data server, and the Angular Framework for front-end UI design. 
 
